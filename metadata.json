@@ -1,0 +1,5 @@
+{
+  "name": "Project BloomScope: Global Vegetation Bloom Monitor",
+  "description": "An interactive dashboard for detecting, visualizing, and analyzing global vegetation bloom events using simulated NASA satellite data. This tool helps researchers, farmers, and policymakers understand ecological trends and their real-world impact.",
+  "requestFramePermissions": []
+}
